@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java.JavaScript.HTML5.CSS**
 
-- 📫 How to reach me **caohieu2412102gmail.com**
+- 📫 How to reach me **caohieu241210gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
