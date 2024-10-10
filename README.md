@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning **Dong A university**
+- 🔭 I’m currently learning **Dart,JavaSpringBoot,Node.js**
 
-- 🤝 I’m looking for help with **Java,JavaScript**
+- 🤝 I’m looking for help with **Java,JavaScript,**
 
-- 💬 Ask me about **Java.JavaScript**
+- 💬 Ask me about **Java.JavaScript.Node.js**
 
 - 📫 How to reach me **caohieu241210@gmail.com**
 
