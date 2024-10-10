@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning **Dart,JavaSpringBoot,Node.js**
+🔭 Current Learning Path: I am actively expanding my skill set by learning Dart, Java with Spring Boot, and Node.js. I am passionate about developing robust applications and exploring new technologies.
 
-- 🤝 I’m looking for help with **Java,JavaScript,**
+🤝 Seeking Collaboration: I am looking for opportunities to collaborate and seek assistance in Java and JavaScript. If you have expertise in these areas or are interested in sharing knowledge, I would love to connect!
 
-- 💬 Ask me about **Java.JavaScript.Node.js**
+💬 Let’s Discuss: Feel free to reach out to me to discuss anything related to Java, JavaScript, or Node.js. I’m eager to learn and exchange ideas!
 
-- 📫 How to reach me **caohieu241210@gmail.com**
+📫 Contact Information: You can reach me at caohieu241210@gmail.com. I look forward to connecting!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
