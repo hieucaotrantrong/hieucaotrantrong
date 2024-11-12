@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🔭 Current Learning Path: I am actively expanding my skill set by learning Dart, Java with Spring Boot, and Node.js and Javascript. I am passionate about developing robust applications and exploring new technologies.
+🔭 Current Learning Path: I am actively expanding my skill set by learning PHP, Java with Spring Boot, and Node.js and Javascript. I am passionate about developing robust applications and exploring new technologies.
 
 🤝 Seeking Collaboration: I am looking for opportunities to collaborate and seek assistance in Java and JavaScript. If you have expertise in these areas or are interested in sharing knowledge, I would love to connect!
 
