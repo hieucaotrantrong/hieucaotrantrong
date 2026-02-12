@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cao Tran Trong Hieu</h1>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hieucaotrantrong" alt="hieucaotrantrong" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🔭 Current Learning Path: I am actively expanding my skill set by learning PHP, Java with Spring Boot, and Node.js and Javascript. I am passionate about developing robust applications and exploring new technologies.
